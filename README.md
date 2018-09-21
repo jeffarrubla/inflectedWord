@@ -30,13 +30,21 @@ The input for the class is:
  - One Inflected Word
 There have to be a method called  __check__ that returns the inflected word marked with tags (see below), in lowercase.
 
-**Regular Inflected Word**
+## Regular Inflected Word
 An Inflected word is regular when it is formed adding the ending to the stem.
 
-stem
-ending
-Inflected word
-check return
+
+
+| stem        | ending           | Inflected word  | check return |
+| ------------- |:-------------:| -----:|-----:|
+| col 3 is      | right-aligned | $1600 |$1600 |
+| col 2 is      | centered      |   $12 |$12 |
+| zebra stripes | are neat      |    $1 |$1 |
+
+
+
+
+
 cant
 a
 canta
