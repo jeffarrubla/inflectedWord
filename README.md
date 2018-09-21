@@ -28,6 +28,7 @@ The input for the class is:
  - One Stem
  - One Ending
  - One Inflected Word
+
 There have to be a method called  __check__ that returns the inflected word marked with tags (see below), in lowercase.
 
 ## Regular Inflected Word
@@ -35,9 +36,9 @@ An Inflected word is regular when it is formed adding the ending to the stem.
 
 
 
-| stem        | ending           | Inflected word  | check return |
-| ------------- |:-------------:| -----:|-----:|
-| col 3 is      | right-aligned | $1600 |$1600 |
+| stem          | ending        | Inflected word  | check return     |
+| ------------- |:-------------:| ---------------:|-----------------:|
+| cant          | a             | canta           | cant<reg>a</reg> |
 | col 2 is      | centered      |   $12 |$12 |
 | zebra stripes | are neat      |    $1 |$1 |
 
@@ -45,10 +46,10 @@ An Inflected word is regular when it is formed adding the ending to the stem.
 
 
 
-cant
-a
-canta
-cant<reg>a</reg>
+
+
+
+
 рек
 ой
 рекой
