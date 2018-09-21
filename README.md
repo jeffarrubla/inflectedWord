@@ -38,7 +38,7 @@ An Inflected word is regular when it is formed adding the ending to the stem.
 
 | stem          | ending        | Inflected word  | check return     |
 | ------------- |:-------------:| ---------------:|-----------------:|
-| cant          | a             | canta           | cant<reg>a</reg> |
+| cant          | a             | canta           | cant`<reg>`a`</reg>` |
 | col 2 is      | centered      |   $12 |$12 |
 | zebra stripes | are neat      |    $1 |$1 |
 
