@@ -1,4 +1,13 @@
 <?php
+/**
+* Index
+*
+* Copyright (c) 2018 Jefferson Arrubla H
+*
+* @copyright Copyright 2018 (c) Jefferson Arrubla H
+* @link https://github.com/jeffarrubla/inflectedWord
+* @version 0.1
+*/
 include('inflectedWord.php');
 
 $inflectedWord = new inflectedWord();
