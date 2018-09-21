@@ -32,7 +32,6 @@ There have to be a method called  __check__ that returns the inflected word mark
 ## Regular Inflected Word
 An Inflected word is regular when it is formed adding the ending to the stem.
 
-
 | stem          | ending        | Inflected word  | check return            |
 |:-------------:|:-------------:|:---------------:|:-----------------------:|
 | cant          | a             | canta           | cant`<reg>`a`</reg>`    |
@@ -41,7 +40,6 @@ An Inflected word is regular when it is formed adding the ending to the stem.
 | чита          | ешь           | читаешь         | чита`<reg>`ешь`</reg>`  |
 | take          | s             | takes           | take`<reg>`s`</reg>`    |
 | красн         | ому           | красному        | красн`<reg>`ому`</reg>` |
-
 
 ## Inflected Word with Changes
 An inflected word only can have changes in the stem, the ending never can change.
@@ -52,40 +50,15 @@ There can be __only one__ of these changes in the stem:
  - A vowel changes to two vowels
  - A consonant changes to another consonant
 
-stem
-ending
-Inflected word
-check return
-танец
-у
-танцу
-танц<reg>у</reg>
-cerr
-o
-cierro
-c<change>i</change>err<reg>o</reg>
-кошк
-
-
-кошек
-кош<change>е</change>к
-sent
-ió
-sintió
-s<change>i</change>nt<reg>ió</reg>
-mov
-o
-muevo
-m<change>ue</change>v<reg>o</reg>
-cog
-o
-cojo
-co<change>j</change><reg>o</reg>
-run
-ing
-running
-run<change>n</change><reg>ing</reg>
-
+| stem          | ending        | Inflected word  | check return                                |
+|:-------------:|:-------------:|:---------------:|:-------------------------------------------:|
+| танец         | у             | танцу           | танц`<reg>`у`</reg>`                        |
+| cerr          | o             | cierro          | c`<change>`i`</change>`err`<reg>`o`</reg>`  |
+| кошк          |               | кошек           | кош`<change>`е`</change>`к                  |
+| sent          | ió            | sintió          | s`<change>`i`</change>`nt`<reg>`ió`</reg>`  |
+| mov           | o             | muevo           | m`<change>`ue`</change>`v`<reg>`o`</reg>`   |
+| cog           | o             | cojo            | co`<change>`j`</change><reg>`o`</reg>`      |
+| run           | ing           | running         | run`<change>`n`</change><reg>`ing`</reg>`   |
 
 
 Irregular Inflected Word
