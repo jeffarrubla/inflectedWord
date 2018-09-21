@@ -6,14 +6,14 @@
  - index.php to call the class and show the information
  - inflectedWord.php the class to do the task
  - [finediff.php](https://github.com/gorhill/PHP-FineDiff) class to manage the comparison between words
-  
+
 ## [Documentation](https://docs.google.com/document/d/1kbUpnNUyjzTu2k_VJrOzYFT8nKFh9U2zTFXTTvbcGqw/edit)
- 
-# Documentation 
+
+# Documentation
 
 ## Introduction
 
-There are languages that inflects. The form of words changes in order to show its grammatical function. 
+There are languages that inflects. The form of words changes in order to show its grammatical function.
 
 The inflected words are usually made adding an ending to the stem.
 
@@ -22,21 +22,21 @@ The inflected words that are formed adding an ending to the stem follows the lan
 They are other inflected words that doesn’t follow the rule because they have some changes in the stem or because they are irregular.
 
 ## Task
+
 Develop a class in PHP that checks if one conjugated word is regular or irregular.
 The input for the class is:
-One Stem
-One Ending
-One Inflected Word
-There have to be a method called check that returns the inflected word marked with tags (see below), in lowercase.
+ - One Stem
+ - One Ending
+ - One Inflected Word
+There have to be a method called  __check__ that returns the inflected word marked with tags (see below), in lowercase.
 
-
-Regular Inflected Word
+**Regular Inflected Word**
 An Inflected word is regular when it is formed adding the ending to the stem.
 
 stem
 ending
 Inflected word
-check return 
+check return
 cant
 a
 canta
