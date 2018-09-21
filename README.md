@@ -7,8 +7,6 @@
  - **inflectedWord.php** class to process the information (the words)
  - **[finediff.php](https://github.com/gorhill/PHP-FineDiff)** class to manage the comparison between words
 
-## [Documentation](https://docs.google.com/document/d/1kbUpnNUyjzTu2k_VJrOzYFT8nKFh9U2zTFXTTvbcGqw/edit)
-
 # Documentation
 
 ## Introduction
@@ -47,12 +45,12 @@ An Inflected word is regular when it is formed adding the ending to the stem.
 
 ## Inflected Word with Changes
 An inflected word only can have changes in the stem, the ending never can change.
-There can be only one of these changes in the stem:
-Disappears a letter
-Appears a letter
-A vowel changes to another vowel
-A vowel changes to two vowels
-A consonant changes to another consonant
+There can be __only one__ of these changes in the stem:
+ - Disappears a letter
+ - Appears a letter
+ - A vowel changes to another vowel
+ - A vowel changes to two vowels
+ - A consonant changes to another consonant
 
 stem
 ending
