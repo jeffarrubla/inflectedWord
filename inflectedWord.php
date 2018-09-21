@@ -1,4 +1,13 @@
 <?php
+/**
+* Inflected Word
+*
+* Copyright (c) 2018 Jefferson Arrubla H
+* 
+* @copyright Copyright 2018 (c) Jefferson Arrubla H
+* @link https://github.com/jeffarrubla/inflectedWord
+* @version 0.1
+*/
 include 'finediff.php'; // used to find differences between 2 words (https://github.com/gorhill/PHP-FineDiff)
 
 class inflectedWord{	
