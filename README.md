@@ -12,11 +12,8 @@
 ## Introduction
 
 There are languages that inflects. The form of words changes in order to show its grammatical function.
-
 The inflected words are usually made adding an ending to the stem.
-
 The inflected words that are formed adding an ending to the stem follows the language rules, so they are regular.
-
 They are other inflected words that doesn’t follow the rule because they have some changes in the stem or because they are irregular.
 
 ## Task
