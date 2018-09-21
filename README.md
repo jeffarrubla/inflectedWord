@@ -12,8 +12,11 @@
 ## Introduction
 
 There are languages that inflects. The form of words changes in order to show its grammatical function.
+
 The inflected words are usually made adding an ending to the stem.
+
 The inflected words that are formed adding an ending to the stem follows the language rules, so they are regular.
+
 They are other inflected words that doesn’t follow the rule because they have some changes in the stem or because they are irregular.
 
 ## Task
@@ -76,3 +79,7 @@ An Inflected word is irregular when it is not Regular or is with Changes
 **Vowels:** аиоуыэеёюя
 
 **Consonants:** бвгджзйклмнпрстфхцчшщ
+
+## Documentation Source
+
+**[Check Inflected Words](https://docs.google.com/document/d/1kbUpnNUyjzTu2k_VJrOzYFT8nKFh9U2zTFXTTvbcGqw/edit)**
