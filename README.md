@@ -60,37 +60,20 @@ There can be __only one__ of these changes in the stem:
 | cog           | o             | cojo            | co`<change>`j`</change><reg>`o`</reg>`      |
 | run           | ing           | running         | run`<change>`n`</change><reg>`ing`</reg>`   |
 
-
-Irregular Inflected Word
+## Irregular Inflected Word
 An Inflected word is irregular when it is not Regular or is with Changes
 
-stem
-ending
-Inflected word
-check return
-ca
-o
-caigo
-<irreg>caigo</irreg>
-мат
-и
-матери
-<irreg>матери</irreg>
-tak
-ed
-taken
-<irreg>taken</irreg>
-жи
-ю
-живу
-<irreg>живу</irreg>
+| stem          | ending        | Inflected word  | check return               |
+|:-------------:|:-------------:|:---------------:|:--------------------------:|
+| ca            | o             | caigo           | `<irreg>`caigo`</irreg>`   |
+| мат           | и             | матери          | `<irreg>`матери`</irreg>`  |
+| tak           | ed            | taken           | `<irreg>`taken`</irreg>`   |
+| жи            | ю             | живу            | `<irreg>`живу`</irreg>`    |
 
+## Latin alphabet
+**Vowels:** aeiou
+**Consonants:** bcdfghjklmnpqrstvwxyz
 
-
-Latin alphabet
-Vowels: aeiou
-Consonants: bcdfghjklmnpqrstvwxyz
-
-Cyrillic alphabet
-Vowels:аиоуыэеёюя
-Consonants: бвгджзйклмнпрстфхцчшщ
+## Cyrillic alphabet
+**Vowels:** аиоуыэеёюя
+**Consonants:** бвгджзйклмнпрстфхцчшщ
