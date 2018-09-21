@@ -36,7 +36,7 @@ An Inflected word is regular when it is formed adding the ending to the stem.
 
 
 | stem          | ending        | Inflected word  | check return            |
-| ------------- |:-------------:|:---------------:|:-----------------------:|
+|:-------------:|:-------------:|:---------------:|:-----------------------:|
 | cant          | a             | canta           | cant`<reg>`a`</reg>`    |
 | рек           | ой            | рекой           | рек`<reg>`ой`</reg>`    |
 | com           | o             | como            | com`<reg>`o`</reg>`     |
