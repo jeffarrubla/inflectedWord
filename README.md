@@ -3,7 +3,7 @@
 
 # Files
 
- - **index.php** to call the class and show the information
+ - **index.php** call the class and show the information and give it the data
  - **inflectedWord.php** the class to do the task
  - **[finediff.php](https://github.com/gorhill/PHP-FineDiff)** class to manage the comparison between words
 
