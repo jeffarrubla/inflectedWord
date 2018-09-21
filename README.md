@@ -35,44 +35,17 @@ There have to be a method called  __check__ that returns the inflected word mark
 An Inflected word is regular when it is formed adding the ending to the stem.
 
 
-
-| stem          | ending        | Inflected word  | check return     |
-| ------------- |:-------------:| ---------------:|-----------------:|
-| cant          | a             | canta           | cant`<reg>`a`</reg>` |
-| col 2 is      | centered      |   $12 |$12 |
-| zebra stripes | are neat      |    $1 |$1 |
-
-
-
-
+| stem          | ending        | Inflected word  | check return            |
+| ------------- |:-------------:| ---------------:|------------------------:|
+| cant          | a             | canta           | cant`<reg>`a`</reg>`    |
+| рек           | ой            | рекой           | рек`<reg>`ой`</reg>`    |
+| com           | o             | como            | com`<reg>`o`</reg>`     |
+| чита          | ешь           | читаешь         | чита`<reg>`ешь`</reg>`  |
+| take          | s             | takes           | take`<reg>`s`</reg>`    |
+| красн         | ому           | красному        | красн`<reg>`ому`</reg>` |
 
 
-
-
-
-рек
-ой
-рекой
-рек<reg>ой</reg>
-com
-o
-como
-com<reg>o</reg>
-чита
-ешь
-читаешь
-чита<reg>ешь</reg>
-take
-s
-takes
-take<reg>s</reg>
-красн
-ому
-красному
-красн<reg>ому</reg>
-
-
-Inflected Word with Changes
+## Inflected Word with Changes
 An inflected word only can have changes in the stem, the ending never can change.
 There can be only one of these changes in the stem:
 Disappears a letter
