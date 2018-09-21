@@ -72,8 +72,10 @@ An Inflected word is irregular when it is not Regular or is with Changes
 
 ## Latin alphabet
 **Vowels:** aeiou
+
 **Consonants:** bcdfghjklmnpqrstvwxyz
 
 ## Cyrillic alphabet
 **Vowels:** аиоуыэеёюя
+
 **Consonants:** бвгджзйклмнпрстфхцчшщ
